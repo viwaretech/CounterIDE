@@ -44,7 +44,7 @@ Since version 2.1.0 and above, the installer no longer includes SDK packages, yo
 - **CounterIDE Setup (Latest Version)**  
 ![Release](https://img.shields.io/github/v/release/viwaretech/counter-ide?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/counter-ide?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260304-E7352C)<br>
 ➡️ [Release Page](https://github.com/viwaretech/counter-ide/releases/latest)  
-➡️ [Download](https://github.com/viwaretech/counter-ide/releases/latest/download/counter-ide-setup.zip)
+➡️ [Download](https://github.com/viwaretech/counter-ide/releases/latest/download/counter-ide-setup.exe)
 
 
 - **CounterIDE Setup**  
@@ -53,8 +53,8 @@ Since version 2.1.0 and above, the installer no longer includes SDK packages, yo
 
 
 - **Platform Tool & SDK**  
-![Version](https://img.shields.io/badge/Version%20-2.2.0-4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260311-E7352C)<br>
-➡️ [Download](https://drive.google.com/uc?export=download&id=1I-ixDK6PWMh7tNYUkr67p0rSX2zZo6CO)
+![Version](https://img.shields.io/badge/Version%20-2.2.1-4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260424-E7352C)<br>
+➡️ [Download](https://drive.google.com/uc?export=download&id=1sDytfS7RWEqZ5xVyufikBusBjiUfYK8K)
 ---
 
 ## 📜 License
